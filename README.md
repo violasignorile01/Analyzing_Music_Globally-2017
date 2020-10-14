@@ -29,7 +29,7 @@ Are certain songs ranked in the top simultaneously in multiple countries?
 
 https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking
 
-![spotify_dataset.png](attachment:spotify_dataset.png)
+![spotify_dataset.png](Images/spotify_dataset.png)
 
 ## Data Exploration & Cleanup Process 
 
