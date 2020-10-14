@@ -69,7 +69,7 @@ Numerical summary - the greatest number of streams of a song took place over a p
 - To show that it lives approx. 3 months, we picked months before or after, depending on the availability of the data
 
 
-![Quarter3.png](attachment:Quarter3.png)
+![Quarter3.png](Images/Quarter3.png)
 
 
 ## Implications of Findings 
@@ -82,7 +82,7 @@ NEW IDEA: maybe these songs are staying popular during a certain few months beca
 
 
 
-![Picture2.png](attachment:Picture2.png)
+![Yearly.png](Images/Yearly.png)
 
 ## Story - Holiday Music  
 
@@ -91,7 +91,7 @@ During the holiday months of November and December the charts are mostly filled 
 On Christmas Eve, “All I Want for Christmas Is You” was streamed roughly 720 million times. 
 
 
-![Picture1.png](attachment:Picture1.png)
+![Christmas.png](Images/Christmas.png)
 
 
 ```python
