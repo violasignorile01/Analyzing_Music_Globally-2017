@@ -69,7 +69,7 @@ Numerical summary - the greatest number of streams of a song took place over a p
 - To show that it lives approx. 3 months, we picked months before or after, depending on the availability of the data
 
 
-![Picture1.png](attachment:Picture1.png)
+![Quarter3.png](attachment:Quarter3.png)
 
 
 ## Implications of Findings 
