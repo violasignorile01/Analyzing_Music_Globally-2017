@@ -40,6 +40,10 @@ https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking
 - There is a “global” category under the country column that we used to find our overall top songs but it was then removed from further analysis
 - When we say “Top” we mean ranked 1-5, mainly looked at Top songs and dropped the lower ranked songs
 
+### Below is some code to show parts of our data exploration & cleanup process: 
+
+![clean.png](clean.png)
+
 ## Analysis Process 
 
 1. Sort Functions & Groupby
@@ -50,6 +54,10 @@ https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking
     - broke down data into sections
     - each section analyzed a song over a quarter out of the year, to find additional trends 
     - used multiple songs and combined quarter results 
+
+### Below is some code to show parts of our analysis process:
+
+![analysis.png](analysis.png)
 
 ## Challenges Faced
 
